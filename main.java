@@ -1,5 +1,5 @@
 public class New{
-  public static void main(Strings [] args){
+  public static void Main(Strings [] args){
     Sysytem.out.println("Hello world");
   }
 }
